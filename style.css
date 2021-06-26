@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background-color: #fff;
+  height: 100vh;
+  display:flex;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.25em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+}
+
+.element {
+  margin: auto;
+  width: 50vw;
+  height: 50vh;
+}
